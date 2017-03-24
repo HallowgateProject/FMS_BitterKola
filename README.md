@@ -113,8 +113,8 @@ To run the migration scripts run this command
  ```
 
 ### First login and test
-Launch a Web browser and see your new Web application. To log in using the *root* account
-the default password is *Password1*. Please change it ASAP.
+Launch a Web browser and see your new Web application. 
+Username *root*, default password is *Password1*.
 
 
 ## Configuration
