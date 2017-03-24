@@ -1,7 +1,7 @@
 # FMS_BitterKola
 A Hallowgate project
 
-[![Software License][ico-license]](LICENSE.md)
+[![Latest Version on Packagist][ico-version]][![Software License][ico-license]](LICENSE.md)
 
 ## Description
 FMS_BitterKola is a File Management System, meant to reduce or eliminate the manual handling, transfer and storage of file in an Organization. It creates a close structure to share and manage files and file folders within an organization.
